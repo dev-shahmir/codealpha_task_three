@@ -147,7 +147,7 @@ nexus-social/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/nexus-social.git
+git clone https://github.com/dev-shahmir/codealpha_task_three
 cd nexus-social
 ```
 
