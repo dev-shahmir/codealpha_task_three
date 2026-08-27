@@ -215,5 +215,5 @@ npm run dev
 
 - **Developer:** Shahmir
 - **Program:** Code Alpha Internship Program
-- **Task:** Task 2 — Social Media Platform
+- **Task:** Task 3 — Social Media Platform
 - **Project Name:** NEXUS Social Network
